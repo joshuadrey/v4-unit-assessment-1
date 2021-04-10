@@ -1,0 +1,190 @@
+
+.header {
+    background-color:  rgb(47, 255, 200);
+    width: 100%;
+    height: 40px;
+    padding: 15px;
+    margin: 0;
+}
+ 
+.header2 {
+    margin: 0;
+}
+
+.header3 {
+    margin-bottom: 0;
+}
+
+
+.header4 {
+    margin-bottom: 0;
+}
+
+.box1 {
+    border: dotted 1px grey;
+    width: 100%;
+    height: 250px;
+}
+
+.rec1 {
+    background-color: indigo;
+    border: solid 2px rgb(255, 25, 71);
+    width: 200px;
+    height: 90px;
+    margin-top: 120px;
+    margin-left: 45px;
+    float: left;
+}
+
+.square{
+    float: left;
+    background-color: rgb(41, 41, 255);
+    border: solid 1px black;
+    box-shadow: 5px 3px 6px black;
+    width: 93px;
+    height: 93px;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.bigSqu{
+    background-color: rgb(250, 114, 116);
+    width: 190px;
+    height: 190px;
+    margin-top: 25px;
+    margin-left: 500px;
+    border: solid 1px black;
+}
+
+
+.box2 {
+    border: dotted 1px grey;
+    width: 100%;
+    height: 500px;
+}
+
+
+.circle1 {
+ 
+border: solid 1px black;
+border-radius: 100%;
+width: 100px;
+height: 100px;
+margin-left: 100px;
+margin-top: 30px;
+
+}
+
+
+.circle2 {
+    
+    
+    border: solid 1px black;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-left: 80px;
+    
+}
+
+
+.circle3 {
+   
+    border: solid 1px black;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin-left: 60px;
+    
+    
+}
+
+.face {
+   margin-left: 30px;
+}
+
+
+
+
+.coal1 {
+   margin-left: 65px;
+}
+
+.coal2 {
+    margin-left: 65px;
+}
+
+.coal3 {
+    margin-left: 65px;
+}
+
+
+
+
+.box3 {
+    border: dotted 1px grey;
+    width: 100%;
+    height: 250px;
+}
+
+
+.bigSqu2 {
+    background-color: rgb(247, 255, 237);
+    width: 230px;
+    height: 230px;
+    margin: 10px;
+    border: solid 1px black;
+}
+
+
+.bigCirc {
+    border: solid 1px black;
+    background-color: rgb(60, 117, 2);
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+}
+
+
+.smallSqu {
+    background-color: rgb(255, 1, 1);
+    border: solid 1px black;
+    width: 120px;
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+.ft {
+font-size: 20;
+text-align: center;
+color: whitesmoke;
+width: 70px;
+height: 15px;
+margin-left: 26px;
+
+}
+
+
+.smallCirc {
+    float: left;
+    border: solid 1px black;
+    background-color: rgb(38, 0, 255);
+    border-radius: 100%;
+    width: 90px;
+    height: 90px;
+}
+
+.Fish{
+    font-size: 30px;
+    margin-left: 30px;
+} 
+
+
+
+
+
+
+
+
