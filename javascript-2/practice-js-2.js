@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-let gitDefinition = '';
+let gitDefinition = ' def';
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.
