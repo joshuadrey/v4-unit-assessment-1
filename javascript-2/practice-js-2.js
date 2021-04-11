@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-let gitDefinition = ' def';
+let gitDefinition = 'Git is a control system that tracks the progress of our work and backs it up';
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.
@@ -18,7 +18,7 @@ let gitDefinition = ' def';
 */
 
 //CODE HERE
-let gitHubDefinition = 'Its a where I can ';
+let gitHubDefinition = 'Its the website where everything is backed up to. ';
 //////////////////PROBLEMS 3 - 9////////////////////
 /*
     For the next several problems you will be creating objects containing information about different git
@@ -34,7 +34,10 @@ let gitHubDefinition = 'Its a where I can ';
 */
 
 //CODE HERE
-
+let init = {
+    description: 'Initials my ability to save and backup my work to github',
+    code: 'git init'
+}
 //////////////////PROBLEM 4////////////////////
 /*
     Create an object called 'clone' with 'description' and 'code' properties
@@ -42,7 +45,10 @@ let gitHubDefinition = 'Its a where I can ';
 */
 
 //CODE HERE
-
+let clone = {
+    description: 'It clones the repositories in github and allows me to store and access them in my folders',
+    code: 'git clone'
+}
 //////////////////PROBLEM 5////////////////////
 /*
     Create an object called 'status' with 'description' and 'code' properties
@@ -50,7 +56,10 @@ let gitHubDefinition = 'Its a where I can ';
 */
 
 //CODE HERE
-
+let status = {
+    description: 'It gives me a detailed list of changes that have not been saved or pushed to github.',
+    code: 'git status'
+}
 //////////////////PROBLEM 6////////////////////
 /*
     Create an object called 'add' with 'description' and 'code' properties
@@ -58,7 +67,10 @@ let gitHubDefinition = 'Its a where I can ';
 */
 
 //CODE HERE
-
+let add = {
+    description: 'It tells git to start tracking my changes. It is also the beginning steps to pushing your work to git',
+    code: 'git add .'
+}
 //////////////////PROBLEM 7////////////////////
 /*
     Create an object called 'commit' with 'description' and 'code' properties
@@ -66,7 +78,10 @@ let gitHubDefinition = 'Its a where I can ';
 */
 
 //CODE HERE
-
+let commit = {
+    description: 'It is a saving point where we are able to leave comments about our code that we are saving. It is also the final step before pushing our code to github',
+    code: 'git commit -m "'
+}
 //////////////////PROBLEM 8////////////////////
 /*
     Create an object called 'addRemote' with 'description' and 'code' properties
@@ -74,7 +89,10 @@ let gitHubDefinition = 'Its a where I can ';
 */
 
 //CODE HERE
-
+let addRemote = {
+    description: 'The git remote add command will create a new connection record to a remote repository. After adding a remote, youll be able to use as a convenient shortcut for in other Git commands.',
+    code: 'git remote add'
+}
 //////////////////PROBLEM 9////////////////////
 /*
     Create an object called 'push' with 'description' and 'code' properties
@@ -82,3 +100,7 @@ let gitHubDefinition = 'Its a where I can ';
 */
 
 //CODE HERE
+let push = {
+    description: 'After staging and commiting your code, It pushes my code to github',
+    code: 'git push'
+}
