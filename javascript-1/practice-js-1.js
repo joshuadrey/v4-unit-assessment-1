@@ -276,7 +276,7 @@ function carFactory(make, model, year) {
     year: 'year'
   }
 
-  if (car.make > 2018) {
+  if (car.year > 2018) {
     car.isNew = true
   } else {
     car.isNew = false
